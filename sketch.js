@@ -73,8 +73,8 @@ play.mousePressed(()=>{
   })
 fill("red")
 textSize(20)
-text("Press DOWN arrow to feed your puppy",200,550)
-text("Press UP arrow to add food",200,500)
+text("Press UP arrow to feed your puppy",200,550)
+text("Press DOWN arrow to add food",200,500)
 text("food remaining  : " + foodS,350,200)
 }
 if(a==1){
